@@ -1,0 +1,22 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<H1><font color= "FF1493"> My Own Webpage </font> </H1>
+		<hr />
+		<p>
+			<center> <img src="http://i882.photobucket.com/albums/ac28/bvbhaskar92/babbu_zpsmmxuvsk1.jpg" width="200" height="200" /> </center>
+			<H2 align = "left"><u><font color="B26200" >About Me</font></u></H2>
+			<H3><b><font color= "orange"><u>Name</u> </font>                 <font color= "white">:</font> </b><font color="green"> Veda Bhaskar Bhamidipati</font><br /></H3>
+			<H3><b><font color= "orange"><u>Date of Birth         </u> </font>        <font color= "white">:</font></b><font color="green"> 2nd Novemeber, 1992</font><br /></H3>
+			<H3><b><font color= "orange"><u>Father's Name         </u></font>        <font color= "white">:</font></b><font color="green"> B.V.Suryanarayana</font><br /></H3>
+			<H3><b><font color= "orange"><u>Mother's Name         </u></font>        <font color= "white">:</font></b><font color="green"> Padma Narayan Bhamidipati</font><br /></H3>
+			<H3><b><font color= "orange"><u>Residence             </u></font>            <font color= "white">:</font></b><font color="green"> 10306, Bredon Hill Lane, Mason Valle, Fairfax, Virginia-22030 </font><br /></H3>
+			<H3><b><font color= "orange"><u>Highest Qualification </u></font><font color= "white">:</font></b><font color="green"> Bachelor of Technology with 72% CGPA</font><br /></H3>
+			<H3><b><font color= "orange"><u>Hobbies               </u></font>              <font color= "white">:</font></b><font color="green"> Playing Cricket, Reading books </font><br /></H3>
+			<H3><b><font color= "orange"><u>Current Profession    </u></font>           <font color= "white">: </font></b><font color="green"> Pursuing my Master's Degree</font><br /></H3>
+			<H3><b><font color= "orange"><u>University            </u></font>           <font color= "white">:</font></b><font color="green"> George Mason University</font><br /></H3>
+			<H3><b><font color= "orange"><u>Course 		      </u></font>               <font color= "white">: </font></b><font color = "green"> Computer Science </font><br /></H3>
+		</p>
+	</body>
+</html>
